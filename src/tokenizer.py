@@ -1,4 +1,4 @@
-class tokenizer:
+class Tokenizer:
     def __init__(self, max_len=128):
         self.max_len = max_len
 

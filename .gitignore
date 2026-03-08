@@ -1,4 +1,5 @@
 .venv/
 doc/
+data/
 dataset/
 __pycache__/
