@@ -1,0 +1,6 @@
+{
+    "max_len": 128,
+    "embedding_dim": 256,
+    "cnn_out_channels": 128,
+    "lstm_hidden_size": 256
+}
